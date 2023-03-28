@@ -11,7 +11,7 @@ I'm junior web developer who has follow-through😊<br>
 ### HIGHLIGHTS
 <img src="https://img.shields.io/badge/Communication Skills-FF9E2A?style=for-the-badge&logo=wechat&logoColor=white"> <img src="https://img.shields.io/badge/Passion-FF6B6B?style=for-the-badge&logo=tinder&logoColor=white"> <img src="https://img.shields.io/badge/Self starter-4a8bc9?style=for-the-badge&logo=hyper&logoColor=white">
 ### SUMMARY
-Graduated from Pukyong National University, majored in Business Administraion. Took a course "Blockchain Developer Training Course" in Pusan National University, and got interested in software development.
+Graduated from Pukyong National University, majored in Tourism Management. Took a course "Blockchain Developer Training Course" in Pusan National University, and got interested in software development.
 Attitude for understanding the Web usability. Web developer experience in Front-End.
 Able to interact well with coworkers also be self-starter.
 ### STACK
